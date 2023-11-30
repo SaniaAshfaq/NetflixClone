@@ -1,0 +1,674 @@
+@media(min-width: 900px) and (max-width: 1200px)
+{
+    .headerContent h1{
+  
+        font-size: 2.5rem;
+        letter-spacing: -2px;
+        
+    } 
+    .headerContent p{
+        font-size: 1.3rem;
+        line-height: 2.5rem;
+        font-weight: bold;
+        text-align: center;
+    } 
+    .headerContent input{
+        margin-top: 15px;
+         width: 18rem;
+         height: 3.1rem;
+       
+     
+     }
+
+     .headerContent button{
+        width: 10rem;
+        height: 3.5rem;
+        font-weight: normal;
+      
+    }
+
+    .firstpartdiv h1{
+        font-size: 3rem;
+        line-height: 6rem;
+        align-items: center;
+    }
+    .firstpartdiv p{
+        font-size: 20px;
+        line-height: 1.5rem;
+        font-weight: 400;
+    }
+    .videoplayer{
+        height: 300px;
+        width: 300px;
+       
+    }
+    .video{
+        height: 280px;
+        width: 280px; 
+     
+    }
+
+    .secondpart{
+        width: 100%;
+        height: 450px;
+    
+    }
+    .secondpart div .girl{
+        width: 450px;
+        height: 300px;
+      
+    }
+    .innersec img{
+        width: 40px;
+        height: 60px;
+        margin: 1.5rem;
+    }
+    .innersec{
+        position: static;
+        bottom: 110px;
+        left: 220px;
+        height: 70px;
+        width: 210px;
+       
+    }
+    .innersec h4 span{
+        font-size: 10px;
+    
+    }
+    .secinn h1{
+        font-size: 2.4rem;
+       
+    }
+    .secinn p{
+        font-size: 20px;
+       
+    }
+     .thirdpart{
+        height: 350px;
+     }
+    .thirdpart h1{
+        font-size: 3.3rem;
+       
+    }
+    .thirdpart p{
+        font-size: 18px;
+       
+    }
+
+    .fourpart img{
+        width: 400px;
+        height: 300px;
+        margin-left: 7rem;
+    }
+    .fourpart h1{
+        font-size: 3rem;
+        margin-left: -10rem;
+    }
+    .fourpart p{
+        font-size: 17px;
+        margin-left: -10rem;
+    }
+
+    .fivepart h1{
+        margin-top: 3rem;
+        font-size: 39px;
+    }
+    
+    .ques{
+        width: 800px;
+        height: 2.5rem;
+        font-size: 1.3rem;
+       margin-bottom: 10px;
+       
+    }
+
+    .ansdiv{
+       
+        font-size: 1.2rem;
+        padding: 20px;
+       margin-bottom: 10px;
+        
+    } 
+    .ques span{
+        float :right;
+        font-size: 2rem;
+    }
+
+    .fivepart p{
+        font-size: 1.2rem;
+     } 
+    
+     .fivesearch input{
+        margin-top: 20px;
+        width: 18rem;
+        height: 3.1rem;
+        border-radius: 10px;
+        background-color: rgba(120, 120, 120, 0.5);
+        font-size: 20px; 
+        margin-bottom: 5rem;
+     }
+     .fivesearch button{
+        width: 10rem;
+        height: 3.5rem;
+        background-color: rgb(229,9,20);
+        font-size: 20px;
+        font-weight: normal;
+        margin-top: 20px;
+        border-radius: 10px;
+     }
+     .footer{
+        width: 100%;
+        height: 540px;
+        background-color: black;
+        border-top: 5px solid rgb(47, 46, 46); 
+       
+     }
+
+}
+
+
+@media(min-width: 651px) and (max-width: 901px)
+{
+    .header{
+        height: 80vh;
+    }
+    .navbar img{
+        width: 100px;
+        height: 80px;
+        z-index: 2;
+        margin-left: 5em;
+        
+     }
+
+     .navbar button{
+        width: 60px;
+        height: 30px;
+        z-index: 2;
+        margin-right: 10rem;
+        font-size: 14px;
+     
+    }
+    .headerContent
+    {
+        height: 400px;
+    }
+
+    .headerContent h1{
+  
+        font-size: 2.2rem;
+      
+        
+    } 
+
+    .headerContent p{
+        font-size: 15px;
+        line-height: 1.4rem;
+
+         
+
+        /* font-weight: bold; */
+    } 
+    
+    
+    .headerContent input{
+       margin-top: 20px;
+        width: 16rem;
+        height: 3.1rem;
+       
+        font-size: 10px;
+    
+    }
+
+    .headerContent button{
+        width: 8rem;
+        height: 3.3rem;
+        font-size: 16px;
+        font-weight: normal;
+        margin-top: 20px;
+        
+    }
+    
+
+    .firstpart{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 600px;
+       
+    }
+
+    .firstpartdiv h1{
+        font-size: 3.5rem;
+        line-height: 5rem;
+        align-items: center;
+    }
+    .firstpartdiv p{
+        font-size: 20px;
+        line-height: 2rem;
+        font-weight: 400;
+    }
+
+
+    .secondpart{
+        width: 100%;
+        height: 900px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: rgb(0, 0, 0);
+        position: relative;
+        border-top: 5px solid rgb(47, 46, 46);
+    
+    }
+
+    .secondpart div .girl{
+        width: 450px;
+        height: 300px;
+      
+    }
+    .innersec img{
+        width: 50px;
+        height: 70px;
+        margin: 1.5rem;
+    }
+    .innersec{
+        display: flex;
+        align-items: center;
+        position: static;
+        bottom: 300px;
+        left: 200px;
+        height: 80px;
+        width: 230px;
+        border: 2px solid grey;
+        border-radius: 10px;
+        background-color: black;
+    }
+    
+    .secinn h1{
+        font-size: 3rem;
+        font-weight: bold;
+       
+       margin-left: 120px;
+    }
+    .secinn p{
+        font-size: 20px;
+        margin-left: 120px;
+        
+    }
+
+    .thirdpart h1{
+        font-size: 50px;
+        margin-top: 100px;
+    }
+    .thirdpart p{
+        font-size: 20px;
+       
+    }
+
+    .fourpart{
+      
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 700px;
+    }
+    .fourpart img{
+        width: 500px;
+        height: 400px;
+        margin-left: 10rem;
+    }
+    .fourpart h1{
+        font-size: 50px;
+        /* margin-left: -14rem; */
+        margin-left: 150px;
+    }
+    .fourpart p{
+        font-size: 20px;
+        /* margin-left: -14rem; */
+        margin-left: 150px;
+    }
+
+
+    .fivepart{
+        width: 100%;
+        /* height: 900px; */
+        display: flex;
+        flex-direction: column;
+        background-color: black;
+        gap: 2rem;
+        border-top: 5px solid rgb(47, 46, 46);
+       
+    }
+    .fivepart h1{
+        margin-top: 3rem;
+        font-size: 50px;
+    }
+    
+    .ques{
+        width: 600px;
+        height: 2rem;
+        background-color:rgb(45,45,45);
+        font-size: 1.5rem;
+       padding: 20px;
+       /* margin: 10px; */
+       font-weight: 400;
+       margin-bottom: 20px;
+       cursor: pointer;
+    }
+    .ansdiv{
+        width: 75%;
+        height: 8rem;
+        background-color: rgb(45,45,45);
+        font-size: 1.2rem;
+        padding: 10px;
+       display: none;
+       margin-bottom: 10px;
+        
+    } 
+
+    .ques span{
+        float :right;
+        font-size: 1.8rem;
+    }
+     .fivepart p{
+        font-size: 1.1rem;
+     } 
+    
+     .fivesearch input{
+        margin-top: 20px;
+        width: 16rem;
+        height: 3.1rem;
+        border-radius: 10px;
+        font-size: 20px; 
+        margin-bottom: 5rem;
+     }
+     .fivesearch button{
+        width: 8rem;
+        height: 3rem;
+        
+     }
+
+     .links{
+    
+        width: 700px;
+        height: 400px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr ;
+        grid-template-rows:1fr 1fr 1fr 1fr 1fr 1fr;
+        margin-left: 0px;
+        margin-top: 20px; 
+        align-items: center;
+        margin-left: 20px;
+        gap: 10px;
+       
+     }
+
+     .links a{
+
+        width: 70px;
+        color: rgb(186, 183, 183);
+     }
+
+
+    
+}
+
+@media(max-width: 650px)
+{
+    .navbar img{
+        width: 90px;
+        height: 70px;
+        z-index: 2;
+        margin-left: 4em;
+        margin-top: -10px;
+     
+     }
+     .navbar button{
+         width: 60px;
+         height: 30px;
+         margin-right: 2rem;
+         border: none;
+         font-weight: normal;
+     }
+     .header{
+       height: 50vh;
+     }
+     .headerContent{
+
+       /* display: flex;
+       flex-direction: column;
+       align-items: center;
+       justify-content: center; */
+       height: 300px;
+         
+        }
+        .headerContent h1{
+          
+            font-size: 2rem;
+            text-align: center;
+           margin-left: 0px;
+            
+        } 
+        .headerContent p{
+            font-size: 1rem;
+            line-height: 1.2rem;
+            font-weight: light;
+            text-align: center;
+        } 
+        .headerContent input{
+            margin-top: 20px;
+             width: 15rem;
+             height: 3.1rem;
+             font-size: 16px;
+         
+         }
+         .headerContent button{
+            width: 5rem;
+            height: 3.3rem;
+            font-size: 16px;
+            font-weight: normal;
+           
+          
+         }
+         .firstpart{
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            height: 700px;
+        
+        }
+        .videoplayer{
+            height: 300px;
+            width: 300px;
+           
+        }
+        .video{
+            height: 280px;
+            width: 280px; 
+         
+        }
+
+         .firstpartdiv h1{
+            font-size: 2.2rem;
+            line-height: 1.4rem;
+            align-items: center;
+        }
+        .firstpartdiv p{
+            font-size: 16px;
+            line-height: 2rem;
+           
+        }
+
+        .secondpart{
+            width: 100%;
+            height: 800px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+          
+            position: relative;
+            background-color: black;
+            
+        
+        }
+        .secondpart div .girl{
+            width: 350px;
+            height: 400px;
+          
+        }
+        .innersec img{
+            width: 50px;
+            height: 70px;
+            margin: 1.5rem;
+        }
+        .innersec{
+            display: flex;
+            align-items: center;
+            position: absolute;
+            bottom: 43%;
+            left: 34%;
+            height: 70px;
+            width: 200px;
+            border: 2px solid grey;
+            border-radius: 10px;
+            background-color: black;
+        }
+         
+        .secinn h1{
+            font-size: 2.1rem;
+            font-weight: bold;
+            margin-left: 20px;
+            text-align: center;
+        }
+        .secinn p{
+            font-size: 30px;
+            margin-left: 20px;
+            text-align: center;
+        }
+        .thirdpart h1{
+            font-size: 30px;
+            margin-left: 10%;
+            margin-top: 40px;
+        }
+
+        .thirdpart p{
+            font-size: 25px;
+            margin-left: 10%;
+            /* margin-top: 50px; */
+        }
+
+        .fourpart{
+            border-top: 5px solid rgb(47, 46, 46);
+            background-color: rgb(0, 0, 0);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            height: 500px;
+        }
+        .fourpart img{
+            width: 300px;
+            height: 200px;
+            margin-left: 4rem;
+        }
+        .fourpart h1{
+            font-size: 50px;
+            margin-left: 4rem;
+        }
+        .fourpart p{
+            font-size: 16px;
+            margin-left: 4rem;
+            
+        }
+
+        .fivepart{
+            width: 100%;
+            /* height: 900px; */
+            display: flex;
+            flex-direction: column;
+            background-color: black;
+            gap: 2rem;
+            border-top: 5px solid rgb(47, 46, 46);
+           
+        }
+        .fivepart h1{
+            margin-top: 3rem;
+            font-size: 2rem;
+            text-align: center;
+        }
+        
+        .ques{
+            width: 70%;
+            height: 2rem;
+            background-color:rgb(45,45,45);
+            font-size: 1.5rem;
+           padding: 20px;
+           /* margin: 10px; */
+           font-weight: 400;
+           margin-bottom: 20px;
+           cursor: pointer;
+        }
+      
+        .ansdiv{
+            width: 70%;
+            height: 18rem;
+            background-color: rgb(45,45,45);
+            font-size: 1.2rem;
+            padding: 20px;
+           display: none;
+           margin-bottom: 20px;
+            
+        } 
+
+        .ques span{
+            float :right;
+            font-size: 1.5rem;
+        }
+         .fivepart p{
+            font-size: 1.2rem;
+            text-align: center;
+         } 
+
+         .fivesearch input{
+            margin-top: 20px;
+            width: 14rem;
+            height: 3.1rem;
+            font-size: 10px; 
+            margin-bottom: 4rem;
+         }
+         .fivesearch button{
+            width: 7rem;
+            height: 3.3rem;
+            font-size: 16px;
+            font-weight: normal;
+
+         }
+         .footer{
+            width: 100%;
+            height: 800px;
+            background-color: black;
+            border-top: 5px solid rgb(47, 46, 46); 
+           
+         }
+
+         .links{
+    
+            width: 700px;
+            height: 500px;
+        
+            grid-template-columns: 100px 100px;
+            grid-template-rows:1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+    
+           
+         }
+         .links a{
+           margin-left: 30%;
+         }
+         .mybtn{
+            margin-top: 4rem;
+            margin-bottom: 2rem;
+         }
+}
